@@ -1,0 +1,132 @@
+# Copyright (C) 2014 Step by Step
+# This file is distributed under the same license as the Step by Step package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Step by Step 0.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/step-by-step\n"
+"POT-Creation-Date: 2014-05-30 18:45:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: step-by-step.php:37
+msgctxt "post type general name"
+msgid "Guides"
+msgstr ""
+
+#: step-by-step.php:38
+msgctxt "post type singular name"
+msgid "Guide"
+msgstr ""
+
+#: step-by-step.php:39
+msgctxt "guide"
+msgid "Add New"
+msgstr ""
+
+#: step-by-step.php:40
+msgid "Add New Guide"
+msgstr ""
+
+#: step-by-step.php:41
+msgid "Edit Guide"
+msgstr ""
+
+#: step-by-step.php:42
+msgid "New Guide"
+msgstr ""
+
+#: step-by-step.php:43
+msgid "All Guides"
+msgstr ""
+
+#: step-by-step.php:44
+msgid "View Guides"
+msgstr ""
+
+#: step-by-step.php:45
+msgid "Search Guides"
+msgstr ""
+
+#: step-by-step.php:46
+msgid "No guides found"
+msgstr ""
+
+#: step-by-step.php:47
+msgid "No guides found in the trash"
+msgstr ""
+
+#: step-by-step.php:81
+msgid "Guide updated. <a href=\"%s\">View guide</a>"
+msgstr ""
+
+#: step-by-step.php:82
+msgid "Custom field updated."
+msgstr ""
+
+#: step-by-step.php:83
+msgid "Custom field deleted."
+msgstr ""
+
+#: step-by-step.php:84
+msgid "Guide updated."
+msgstr ""
+
+#: step-by-step.php:85
+msgid "Guide restored to revision from %s"
+msgstr ""
+
+#: step-by-step.php:86
+msgid "Guide published. <a href=\"%s\">View guide</a>"
+msgstr ""
+
+#: step-by-step.php:87
+msgid "Guide saved."
+msgstr ""
+
+#: step-by-step.php:88
+msgid "Guide submitted. <a target=\"_blank\" href=\"%s\">Preview guide</a>"
+msgstr ""
+
+#: step-by-step.php:89
+msgid ""
+"Guide scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview guide</a>"
+msgstr ""
+
+#: step-by-step.php:89
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: step-by-step.php:90
+msgid "Guide draft updated. <a target=\"_blank\" href=\"%s\">Preview guide</a>"
+msgstr ""
+
+#: step-by-step.php:399
+msgid "Guides"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Step by Step"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://kylembrown.com/step-by-step"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create step-by-step instructions with images and display them on WordPress "
+"post or pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kyle M. Brown"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kylembrown.com"
+msgstr ""
